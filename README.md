@@ -1,7 +1,7 @@
 # SpringBoot Social Network Project
 
 - Circle CI build status:
-[![CircleCI](https://app.circleci.com/pipelines/github/Prophet1999/Social-Media-App-Backend-SpringBoot?filter=all)
+[![CircleCI](https://app.circleci.com/pipelines/github/Prophet1999/Social-Media-App-Backend-SpringBoot)
 
 ## Introduction
 This project is a continuation of the previous one. The previous project was made with pure Servlets and JSP
