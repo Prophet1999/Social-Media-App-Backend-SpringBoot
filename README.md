@@ -73,7 +73,7 @@ Tyrion Lannister credentials:
 
 ## Application profiles
 - dev - profile for development, uses embedded H2 database
-- qa - profile for qa testing, uses Mysql either local, or from docker container: [mysql docker container](https://github.com/dmcheremisin/SpringBootSocialNetwork/blob/master/docker/mysql%20docker%20commands.md)
+- qa - profile for qa testing, uses Mysql either local, or from docker container: [mysql docker container](https://github.com/Prophet1999/Social-Media-App-Backend-SpringBoot/blob/master/docker/mysql%20docker%20commands.md)
 - prod - profile for Heroku, uses ClearDb. ClearDb is Heroku analog of Mysql: [details](https://devcenter.heroku.com/articles/cleardb)
 - docker - profile for Docker. It is created to test connection between 2 containers: mysql and social-network(spring
  boot app)
