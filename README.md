@@ -84,18 +84,18 @@ I made 2 containers: mysql and social-network, and then linked them.
 Commands for images creation and containers startup may be found in the directory: [docker](https://github.com/dmcheremisin/SpringBootSocialNetwork/tree/master/docker)
 
 ## Screenshots
-![1](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/1.png)
-![2](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/2.png)
-![3](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/3.png)
-![4](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/4.png)
-![5](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/5.png)
-![6](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/6.png)
-![7](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/7.png)
-![8](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/8.png)
-![9](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/9.png)
-![10](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/10.png)
-![11](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/11.png)
-![12](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/12.png)
+![1](https://github.com/Prophet1999/Social-Media-App-Backend-SpringBoot/blob/db1e4c2e7eca1b0e15cbb3fd6f4ee0e2c37dedf0/1.png)
+![2](https://github.com/Prophet1999/Social-Media-App-Backend-SpringBoot/blob/db1e4c2e7eca1b0e15cbb3fd6f4ee0e2c37dedf0/2.png)
+![3](https://github.com/Prophet1999/Social-Media-App-Backend-SpringBoot/blob/db1e4c2e7eca1b0e15cbb3fd6f4ee0e2c37dedf0/3.png)
+![4](https://github.com/Prophet1999/Social-Media-App-Backend-SpringBoot/blob/db1e4c2e7eca1b0e15cbb3fd6f4ee0e2c37dedf0/4.png)
+![5](https://github.com/Prophet1999/Social-Media-App-Backend-SpringBoot/blob/db1e4c2e7eca1b0e15cbb3fd6f4ee0e2c37dedf0/5.png)
+![6](https://github.com/Prophet1999/Social-Media-App-Backend-SpringBoot/blob/db1e4c2e7eca1b0e15cbb3fd6f4ee0e2c37dedf0/6.png)
+![7](https://github.com/Prophet1999/Social-Media-App-Backend-SpringBoot/blob/db1e4c2e7eca1b0e15cbb3fd6f4ee0e2c37dedf0/7.png)
+![8](https://github.com/Prophet1999/Social-Media-App-Backend-SpringBoot/blob/db1e4c2e7eca1b0e15cbb3fd6f4ee0e2c37dedf0/8.png)
+![9](https://github.com/Prophet1999/Social-Media-App-Backend-SpringBoot/blob/db1e4c2e7eca1b0e15cbb3fd6f4ee0e2c37dedf0/9.png)
+![10](https://github.com/Prophet1999/Social-Media-App-Backend-SpringBoot/blob/db1e4c2e7eca1b0e15cbb3fd6f4ee0e2c37dedf0/10.png)
+![11](https://github.com/Prophet1999/Social-Media-App-Backend-SpringBoot/blob/db1e4c2e7eca1b0e15cbb3fd6f4ee0e2c37dedf0/11.png)
+![12](https://github.com/Prophet1999/Social-Media-App-Backend-SpringBoot/blob/db1e4c2e7eca1b0e15cbb3fd6f4ee0e2c37dedf0/12.png)
  
 ### Todo: 
 - Improve test coverage. Yes, I know it is very important, but I don't have enough time.
